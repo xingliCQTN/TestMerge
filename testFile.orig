@@ -1,0 +1,19 @@
+this is from original master
+<<<<<<< HEAD
+this is from feture b
+this is from feture b1
+this is from feture b2
+this is from feture b3
+this is from feture b4
+this is from feture b5
+=======
+this is not from feture b
+this is not from feture b2
+this is not from feture b3
+this is not from feture b4
+this is not from feture b5
+this is not from feture b6
+save the contents below(including this line)
+this is not from feture b7
+this is not from feture b8
+>>>>>>> 795bab6d0ee89444faec02691d78a7a9fcc13c4a
